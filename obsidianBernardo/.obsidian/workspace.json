@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "61d15b8d1b218b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb23da861eae1477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "654557ac8681fd45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meusCursos/programacaoDeJogosQui9h/projetoPrincipal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "projetoPrincipal"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba5e4c93f2e2365a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c40a7e830c5228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f30ef2f5f167546",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ef03f0e04807a2c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5cea30a73f4e4f25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "594b076252a8f675",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d48b472ad596124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93f20590558ed89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "db9c9e972b96727d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "7dd71aebe1e4f44a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7cbc9345631b9bf8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "78d4401127f0e7bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "654557ac8681fd45",
+  "lastOpenFiles": [
+    "meusCursos/programacaoDeJogosQui9h/img/dividedHeartCover.png",
+    "meusCursos/programacaoDeJogosQui9h/projetoPrincipal.md",
+    "meusCursos/programacaoDeJogosQui9h/img/dividedHeart.png",
+    "meusCursos/programacaoDeJogosQui9h/img",
+    "meusCursos/programacaoDeJogosQui9h",
+    "programacaoJogosQui9h/projetoPrincipal.md",
+    "ProgramacaoJogosQui9h/projetoPrincipal.md",
+    "ProgramacaoJogosQui9h",
+    "programacaoJogosQui9h",
+    "Bem-vindo.md",
+    "meusCursos",
+    "programacaoJogosQui9h"
+  ]
+}

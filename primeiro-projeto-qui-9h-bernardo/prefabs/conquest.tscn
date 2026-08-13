@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://d2f18pdewt8si"]
+
+[ext_resource type="Script" uid="uid://drg52o23g3rfu" path="res://script/conquest.gd" id="1_cd2xk"]
+[ext_resource type="Texture2D" uid="uid://862mgk4iekcu" path="res://assets/my-assets/play.png" id="1_h27eo"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_cd2xk"]
+size = Vector2(16, 16)
+
+[node name="conquest" type="Area2D"]
+script = ExtResource("1_cd2xk")
+bonus_speed = 400.0
+bonus_jump = -500.0
+
+[node name="texture" type="Sprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_h27eo")
+
+[node name="collision" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_cd2xk")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
