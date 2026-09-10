@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Documents\\development\\bernardo\\cursoProgJogosQui9h\\CSharp\\FirstProjectCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C664822A-99D7-4EDA-A499-2D6B751F79AE}|FirstProjectCSharp\\FirstProjectCSharp.csproj|c:\\users\\aluno\\documents\\development\\bernardo\\cursoprogjogosqui9h\\csharp\\firstprojectcsharp\\firstprojectcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664822A-99D7-4EDA-A499-2D6B751F79AE}|FirstProjectCSharp\\FirstProjectCSharp.csproj|solutionrelative:firstprojectcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\development\\bernardo\\cursoProgJogosQui9h\\CSharp\\FirstProjectCSharp\\FirstProjectCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstProjectCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\development\\bernardo\\cursoProgJogosQui9h\\CSharp\\FirstProjectCSharp\\FirstProjectCSharp\\Program.cs*",
+              "RelativeToolTip": "FirstProjectCSharp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T14:05:20.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

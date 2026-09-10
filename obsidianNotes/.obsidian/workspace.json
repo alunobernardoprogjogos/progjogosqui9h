@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub.md",
-                "mode": "preview",
+                "file": "MyProjects/Sem título.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub"
+              "title": "Sem título"
             }
           }
         ]
@@ -208,9 +208,21 @@
   },
   "active": "7df5a07f98207852",
   "lastOpenFiles": [
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/FirstProjectCSharp.csproj.nuget.g.targets",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/FirstProjectCSharp.csproj.nuget.g.props",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Container/ContainerToolsExceptions.json",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Container/ContainerDevelopmentMode.cache",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Container/ContainerOperatingSystemFlavor.cache",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Container/OperatingSystemName.cache",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Container/TargetFramework.cache",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Debug/net10.0/FirstProjectCSharp.csproj.FileListAbsolute.txt",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/bin/Debug/net10.0/FirstProjectCSharp.pdb",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Debug/net10.0/ref/FirstProjectCSharp.dll",
+    "CSharp/FirstProjectCSharp/FirstProjectCSharp/bin/Debug/net10.0/FirstProjectCSharp.dll",
+    "GitHub.md",
+    "MyProjects/Sem título.md",
     "cursoProgJogosQui9h/GitHub.md",
     "Sem título.md",
-    "cursoProgJogosQui9h",
     "Bem-vindo.md"
   ]
 }

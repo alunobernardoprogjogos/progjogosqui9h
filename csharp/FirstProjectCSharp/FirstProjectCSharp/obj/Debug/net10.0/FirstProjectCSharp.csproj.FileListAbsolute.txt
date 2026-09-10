@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net10.0\FirstProjectCSharp.exe
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net10.0\FirstProjectCSharp.deps.json
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net10.0\FirstProjectCSharp.runtimeconfig.json
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net10.0\FirstProjectCSharp.dll
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net10.0\FirstProjectCSharp.pdb
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.AssemblyInfo.cs
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.sourcelink.json
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.dll
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\refint\FirstProjectCSharp.dll
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.pdb
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\FirstProjectCSharp.genruntimeconfig.cache
+C:\Users\aluno\Documents\development\bernardo\cursoProgJogosQui9h\CSharp\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net10.0\ref\FirstProjectCSharp.dll
