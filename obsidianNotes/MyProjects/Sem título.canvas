@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"00c0374020220319","x":-1300,"y":-141,"width":250,"height":61,"color":"5","type":"text","text":"O começo deles dois "},
+		{"id":"862dfc370ce1aabd","type":"text","text":"","x":-520,"y":-201,"width":250,"height":60,"color":"1"},
+		{"id":"bc439f6a5a6f64fa","type":"text","text":"","x":-520,"y":60,"width":250,"height":60,"color":"#000000"},
+		{"id":"0561d2e88ccedecd","x":-860,"y":60,"width":250,"height":60,"color":"#000000","type":"text","text":""},
+		{"id":"b6d95758c8925514","type":"text","text":"se vc escolhe esse o boneco vai ter um caminho bom com varias pessoas felizes e boas. Final bom","x":-180,"y":-201,"width":340,"height":141,"color":"1"},
+		{"id":"8756a48f376c37a4","type":"text","text":"e se vc escolher esse vc vai ter um final ruim e vc vai para um mundo ruim com varias pessoas arrogante e bravas. Final ruim ","x":-180,"y":60,"width":340,"height":160,"color":"#000000"},
+		{"id":"772e2a4e8b9126aa","type":"text","text":"foi para um mundo ","x":-860,"y":-196,"width":250,"height":50,"color":"1"}
+	],
+	"edges":[
+		{"id":"16318030cfb94376","fromNode":"00c0374020220319","fromSide":"right","toNode":"0561d2e88ccedecd","toSide":"left","color":"#454545","label":"linha 1"},
+		{"id":"655387fcf99fa579","fromNode":"00c0374020220319","fromSide":"right","toNode":"772e2a4e8b9126aa","toSide":"left","color":"3","label":"linha 2"},
+		{"id":"2b62b9e37146b313","fromNode":"772e2a4e8b9126aa","fromSide":"right","toNode":"862dfc370ce1aabd","toSide":"left"},
+		{"id":"df4c6eb153f8cb2e","fromNode":"0561d2e88ccedecd","fromSide":"right","toNode":"bc439f6a5a6f64fa","toSide":"left"},
+		{"id":"db6df5418c209fb3","fromNode":"bc439f6a5a6f64fa","fromSide":"right","toNode":"8756a48f376c37a4","toSide":"left"},
+		{"id":"1cecd0d0d940a02e","fromNode":"862dfc370ce1aabd","fromSide":"right","toNode":"b6d95758c8925514","toSide":"left"}
+	]
+}
