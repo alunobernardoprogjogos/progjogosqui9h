@@ -12,10 +12,14 @@
             "id": "7df5a07f98207852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GitHub.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "GitHub"
             }
           }
         ]
@@ -97,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 200
   },
   "right": {
     "id": "da138f5f5ae57e03",
