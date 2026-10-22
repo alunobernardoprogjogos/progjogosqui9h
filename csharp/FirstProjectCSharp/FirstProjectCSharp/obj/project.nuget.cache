@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KwZhZ/UKOaU=",
+  "dgSpecHash": "Nr+noxkPRls=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\Documents\\development\\bernardo\\cursoProgJogosQui9h\\CSharp\\FirstProjectCSharp\\FirstProjectCSharp\\FirstProjectCSharp.csproj",
+  "projectFilePath": "C:\\Users\\Raphael Rodrigues\\Documents\\PCAlunos\\bernardo\\csharp\\FirstProjectCSharp\\FirstProjectCSharp\\FirstProjectCSharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+    "C:\\Users\\Raphael Rodrigues\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
   ],
   "logs": []
 }
