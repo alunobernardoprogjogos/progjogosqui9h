@@ -12,14 +12,10 @@
             "id": "7df5a07f98207852",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyProjects/Sem título.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Nova aba"
             }
           }
         ]
@@ -208,6 +204,12 @@
   },
   "active": "7df5a07f98207852",
   "lastOpenFiles": [
+    "MyProjects/Sem título.canvas",
+    "MyProjects/canva.canvas",
+    "obsidianBernardo/meusCursos/programacaoDeJogosQui9h/projetoPrincipal.md",
+    "MyProjects/dividedHeart.md",
+    "MyProjects/dividedHeartOld.md",
+    "MyProjects/projetoPrincipal.md",
     "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/FirstProjectCSharp.csproj.nuget.g.targets",
     "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/FirstProjectCSharp.csproj.nuget.g.props",
     "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Container/ContainerToolsExceptions.json",
@@ -218,7 +220,6 @@
     "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Debug/net10.0/FirstProjectCSharp.csproj.FileListAbsolute.txt",
     "CSharp/FirstProjectCSharp/FirstProjectCSharp/bin/Debug/net10.0/FirstProjectCSharp.pdb",
     "CSharp/FirstProjectCSharp/FirstProjectCSharp/obj/Debug/net10.0/ref/FirstProjectCSharp.dll",
-    "CSharp/FirstProjectCSharp/FirstProjectCSharp/bin/Debug/net10.0/FirstProjectCSharp.dll",
     "GitHub.md",
     "MyProjects/Sem título.md",
     "cursoProgJogosQui9h/GitHub.md",
